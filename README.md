@@ -6,11 +6,8 @@ Pulsadores , Resistencias, Leds, Buzzer, Lcd I2C, jumpers
 
 
 ## Diagramas
-<img src="DIAGRAMAS/Portapapeles01.jpg" width="480">
-
-![Diagrama 02](DIAGRAMAS/Portapapeles02.jpg)
-
-![Diagrama 03](DIAGRAMAS/Portapapeles03.jpg)
-
-![Diagrama 04](DIAGRAMAS/Portapapeles04.jpg)
+<img src="DIAGRAMAS/Portapapeles01.jpg" width="480" alt="Diagrama 01">
+<img src="DIAGRAMAS/Portapapeles02.jpg" width="480" alt="Diagrama 02">
+<img src="DIAGRAMAS/Portapapeles03.jpg" width="480" alt="Diagrama 03">
+<img src="DIAGRAMAS/Portapapeles04.jpg" width="480" alt="Diagrama 04">
 
