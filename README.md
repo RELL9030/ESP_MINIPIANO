@@ -1,5 +1,9 @@
 # ESP32_MINIPIANO
 [MINI-PIANO ESP32](https://wokwi.com/projects/367655907065697281)
+
+## Componentes
+Pulsadores, Resistendias, Leds, Buzzer, Lcd I2C, jumpers
+
 ## Diagramas
 ![Digrama](DIAGRAMAS/Portapapeles01.jpg)
 
