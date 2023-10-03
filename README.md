@@ -1,9 +1,7 @@
 # ESP32_MINIPIANO 🎹
 [MINI-PIANO ESP32](https://wokwi.com/projects/367655907065697281)
 
-## Componentes
-### Hardware
-
+### Componentes
 | Item             | Quantity | Notes                        |
 | ---------------- | -------- | ---------------------------- |
 | ESP-32 DEVkit    | 1        |                              |
