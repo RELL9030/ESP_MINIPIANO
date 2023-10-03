@@ -12,7 +12,7 @@
 | Buzzer           | 1        |                               |
 
 
-## Diagramas
+### Diagramas
 <p align="center">
 <img src="DIAGRAMAS/Portapapeles01.jpg" width="480" height="480" alt="Diagrama 01">
 <img src="DIAGRAMAS/Portapapeles02.jpg" width="480" height="480" alt="Diagrama 02">
