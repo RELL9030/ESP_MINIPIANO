@@ -8,7 +8,7 @@
 | LCD 16x2         | 1        | i2C                           |
 | 5mm LED          | 14       | Red                           |
 | 5mm Push button  | 17       | (14)Green, (2)Black, (1)Blue  |
-| Resistor         | 17       | 220Ω, 1KΩ, 10K                |
+| Resistor         | 31       | (14)220Ω, (3)1KΩ, (14)10K     |
 | Buzzer           | 1        |                               |
 
 
