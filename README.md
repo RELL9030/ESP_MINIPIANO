@@ -19,3 +19,10 @@
 <img src="DIAGRAMAS/Portapapeles03.jpg" width="480" height="480" alt="Diagrama 03">
 <img src="DIAGRAMAS/Portapapeles04.jpg" width="480" height="480" alt="Diagrama 04">
 </p>
+
+### Pin Connections
+
+| Arduino Pin | Device        |
+| ----------- | ------------- |
+| 1           | LCD           |
+
