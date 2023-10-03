@@ -2,7 +2,16 @@
 [MINI-PIANO ESP32](https://wokwi.com/projects/367655907065697281)
 
 ## Componentes
-Pulsadores , Resistencias, Leds, Buzzer, Lcd I2C, jumpers
+### Hardware
+
+| Item             | Quantity | Notes                        |
+| ---------------- | -------- | ---------------------------- |
+| ESP-32 DEVkit    | 1        |                              |
+| LCD 16x2         | 1        | i2C                          |
+| 5mm LED          | 4        | Red                          |
+| 12mm Push button | 4        |                              |
+| Resistor         | 4        | 220Ω, 1KΩ                    |
+| Piezo Buzzer     | 1        |                              |
 
 
 ## Diagramas
