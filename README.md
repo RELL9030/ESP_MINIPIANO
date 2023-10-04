@@ -1,6 +1,6 @@
 # ESP32_MINIPIANO 🎹
-[MINI-PIANO ESP32](https://wokwi.com/projects/367655907065697281)
-<a href ="https://wokwi.com/projects/367655907065697281" target="_blank">MINI-PIANO ESP32</a>.
+//[MINI-PIANO ESP32](https://wokwi.com/projects/367655907065697281)
+<a href ="https://wokwi.com/projects/367655907065697281" target="_blank">MINI-PIANO ESP32</a>
 
 ### Componentes
 | Item             | Quantity | Notes                         |
