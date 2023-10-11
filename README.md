@@ -21,8 +21,30 @@
 </p>
 
 ### Pin Connections
+#### LCD
+| ESP-Pin     | Device        |Notes 
+| ----------- | ------------- |------------- |
+| D21         | LCD i2c       | SDA          |
+| D22         | LCD i2c       | SCL          |
 
-| Arduino Pin | Device        |
-| ----------- | ------------- |
-| 1           | LCD           |
+
+
+### PINS PARA TECLADO 	  ESPAÑOL - INGLES
+| ----------- | ------------- |------------- |
+| | ------------- |------------- |
+| ----------- | ------------- |------------- |
+  13 DO		  	C 
+  34 DO#  		C#
+  12 RE	  		D
+  pinMode(35, INPUT); //	RE#	  		D# 
+  pinMode(14, INPUT);  //	MI	  		E
+  pinMode(27, INPUT); //	FA	  		F
+  pinMode(15, INPUT); //	FA#	  		F# 
+  pinMode(26, INPUT); //	SOL	  		G
+  pinMode(2, INPUT);  //	SOL#  		G#
+  pinMode(25, INPUT); //	LA	  		A
+  pinMode(19, INPUT); //	LA#	  		A#
+  pinMode(33, INPUT); //	SI	  		B
+  pinMode(32, INPUT); //	DÖ	  		C2
+  pinMode(18, INPUT); //	DÖ#	  		C2#
 
