@@ -4,7 +4,7 @@
 ### Componentes
 | Item             | Quantity | Notes                         |
 | ---------------- | -------- | ----------------------------- |
-| ESP-32 DEVkit    | 1        |                               |
+| ESP-32 DEVkit    | 1        |  30PIN                             |
 | LCD 16x2         | 1        | i2C                           |
 | 5mm LED          | 14       | Red                           |
 | 5mm Push button  | 17       | (14)Green, (2)Black, (1)Blue  |
@@ -30,7 +30,7 @@
 
 
 ### PINS PARA TECLADO 	  
-| PIN         | ESPAÑOL - INGLES | 
+| PIN         | ESPAÑOL | INGLES | 
 | ----------- | ------- |------- |
 | 13          | DO      | C      | 
 | 34          | DO#     | C#     | 
