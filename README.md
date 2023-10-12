@@ -29,7 +29,7 @@
 
 
 
-### PINS PARA TECLADO 	  
+#### PINS PARA TECLADO 	  
 | PIN         | ESPAÑOL | INGLES | 
 | ----------- | ------- |------- |
 | 13          | DO      | C      | 
